@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": true,
+    "git.autoStash": true,
+    "git.terminalAuthentication": false
+}
